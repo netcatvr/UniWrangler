@@ -4,7 +4,11 @@
 [![Unity Version](https://img.shields.io/badge/Unity-2019.3%2B-blue.svg)](https://unity.com/releases/2019-lts)
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)](https://github.com/netcatvr/UniWrangler/releases)
 
-**UniWrangler** is a powerful and customizable Unity Editor Extension that simplifies the creation of PBR materials. When you select multiple textures, right-click, and choose `Create UniWrangler Material`, UniWrangler automatically sets up a material with all your PBR textures in place.
+![logo](https://data.netcat.moe/UniWranglerLogo600x112.png)
+
+**UniWrangler** is a powerful and customizable Unity Editor Extension that simplifies the creation of PBR materials. </br>
+When you select multiple textures, right-click, and choose `Create UniWrangler Material`,
+UniWrangler automatically sets up a material with all your PBR textures in place.
 
 ![coolgraphicthing](https://data.netcat.moe/uniwrangler_setup.webp)
 
